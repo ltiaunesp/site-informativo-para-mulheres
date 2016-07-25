@@ -1,0 +1,579 @@
+# Translation of Stargazer Colloquium in Portuguese (Brazil)
+# This file is distributed under the same license as the Stargazer Colloquium package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-07-20 01:30:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Stargazer Colloquium\n"
+
+#: bbpress/loop-single-topic.php:74
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "em: <a href=\"%1$s\">%2$s</a>"
+
+#: bbpress/loop-topics.php:19
+msgid "Topics"
+msgstr "Tópicos"
+
+#: bbpress/loop-single-topic.php:60
+msgid "Started by: %1$s"
+msgstr "Iniciado por: %1$s"
+
+#: bbpress/loop-single-reply.php:65
+msgid "in reply to: "
+msgstr "em resposta a:"
+
+#: bbpress/loop-search.php:22 bbpress/loop-search.php:44
+msgid "Search Results"
+msgstr "Resultados da pesquisa"
+
+#: bbpress/loop-search-topic.php:33
+msgid "in group forum "
+msgstr "no fórum do grupo"
+
+#: bbpress/loop-search-topic.php:37
+msgid "in forum "
+msgstr "no fórum"
+
+#: bbpress/loop-search.php:18 bbpress/loop-search.php:40
+msgid "Author"
+msgstr "Autor"
+
+#: bbpress/loop-search-topic.php:26
+msgid "Topic: "
+msgstr "Tópico:"
+
+#: bbpress/loop-search-reply.php:24
+msgid "In reply to: "
+msgstr "em resposta a:"
+
+#: bbpress/loop-search-forum.php:26
+msgid "Forum: "
+msgstr "Fórum:"
+
+#: bbpress/loop-search-forum.php:16
+msgid "Last updated %s"
+msgstr "Última atualização %s"
+
+#: bbpress/loop-replies.php:21
+msgid "Discussion"
+msgstr "Discussão"
+
+#: bbpress/loop-forums.php:20 bbpress/loop-topics.php:20
+msgid "Freshness"
+msgstr "Tempo"
+
+#: bbpress/form-user-roles.php:13
+msgid "Blog Role"
+msgstr "Função no blog"
+
+#: bbpress/form-user-roles.php:20
+msgid "Forum Role"
+msgstr "Funções no fórum"
+
+#: bbpress/loop-forums.php:19
+msgid "Forums"
+msgstr "Fóruns"
+
+#: bbpress/form-user-register.php:36
+msgid "Register"
+msgstr "Registrar-se"
+
+#: bbpress/form-user-register.php:17
+msgid "Your username must be unique, and cannot be changed later."
+msgstr "Seu nome de usuário deve ser único e não poderá ser alterado."
+
+#: bbpress/form-user-register.php:18
+msgid "We use your email address to email you a secure password and verify your account."
+msgstr "Nós usamos seu endereço de email para enviar-lhe uma senha segura e verificar sua conta."
+
+#: bbpress/form-user-register.php:14
+msgid "Create an Account"
+msgstr "Crie uma conta"
+
+#: bbpress/form-user-lost-pass.php:18
+msgid "Username or Email"
+msgstr "Nome de Usuário ou Email"
+
+#: bbpress/form-user-lost-pass.php:27
+msgid "Reset My Password"
+msgstr "Redefinir minha senha"
+
+#: bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr "Mantenha-me autenticado"
+
+#: bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr "Senha perdida"
+
+#: bbpress/form-user-login.php:22
+msgid "Password"
+msgstr "Senha"
+
+#: bbpress/form-user-login.php:14 bbpress/form-user-login.php:35
+msgid "Log In"
+msgstr "Login"
+
+#: bbpress/form-user-edit.php:178
+msgid "Update User"
+msgstr "Atualizar usuário"
+
+#: bbpress/form-user-edit.php:178
+msgid "Update Profile"
+msgstr "Atualizar perfil"
+
+#: bbpress/form-user-edit.php:173
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+#: bbpress/form-user-edit.php:153
+msgid "Network Role"
+msgstr "Função na rede"
+
+#: bbpress/form-user-edit.php:156
+msgid "Grant this user super admin privileges for the Network."
+msgstr "Conceder privilégios de super admin da Rede para este usuário."
+
+#: bbpress/form-user-edit.php:133
+msgid "Your password should be at least ten characters long. Use upper and lower case letters, numbers, and symbols to make it even stronger."
+msgstr "Sua senha deve ter ao menos dez caracteres. Use letras maiúsculas e minúsculas, números e símbolos para torná-la mais forte."
+
+#: bbpress/form-user-edit.php:143 bbpress/form-user-edit.php:146
+msgid "User Role"
+msgstr "Função de usuário"
+
+#: bbpress/form-user-edit.php:130
+msgid "Type your new password again."
+msgstr "Digite sua nova senha novamente."
+
+#: bbpress/form-user-edit.php:127
+msgid "If you would like to change the password type a new one. Otherwise leave this blank."
+msgstr "Para alterar sua senha, digite a nova senha; caso contrário, deixe este espaço em branco."
+
+#: bbpress/form-user-edit.php:124
+msgid "New Password"
+msgstr "Nova senha"
+
+#: bbpress/form-user-edit.php:115
+msgid "There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s\">Cancel</a>"
+msgstr "Há uma mudança de endereço de email pendente para <code>%1$s</code>. <a href=\"%2$s\">Cancelar</a>"
+
+#: bbpress/form-user-edit.php:103 bbpress/form-user-register.php:28
+msgid "Email"
+msgstr "Email"
+
+#: bbpress/form-user-edit.php:90 bbpress/form-user-edit.php:93
+msgid "Account"
+msgstr "Conta"
+
+#: bbpress/form-user-edit.php:98 bbpress/form-user-login.php:17
+#: bbpress/form-user-register.php:23
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: bbpress/form-user-edit.php:82
+msgid "Biographical Info"
+msgstr "Informações biográficas"
+
+#: bbpress/form-user-edit.php:74 bbpress/form-user-edit.php:77
+msgid "About the user"
+msgstr "Sobre o usuário"
+
+#: bbpress/form-user-edit.php:74 bbpress/form-user-edit.php:77
+msgid "About Yourself"
+msgstr "Sobre você"
+
+#: bbpress/form-user-edit.php:57
+msgid "Website"
+msgstr "Site"
+
+#: bbpress/form-user-edit.php:49 bbpress/form-user-edit.php:52
+msgid "Contact Info"
+msgstr "Informações de contato"
+
+#: bbpress/form-user-edit.php:39
+msgid "Display Name"
+msgstr "Nome de exibição"
+
+#: bbpress/form-user-edit.php:34
+msgid "Nickname"
+msgstr "Apelido"
+
+#: bbpress/form-user-edit.php:29
+msgid "Last Name"
+msgstr "Sobrenome"
+
+#: bbpress/form-user-edit.php:24
+msgid "First Name"
+msgstr "Nome"
+
+#: bbpress/form-user-edit.php:14 bbpress/form-user-edit.php:19
+msgid "Name"
+msgstr "Nome"
+
+#: bbpress/form-topic.php:232
+msgid "You must be logged in to create new topics."
+msgstr "Você deve fazer login para criar novos tópicos."
+
+#: bbpress/form-topic.php:143
+msgid "Topic Status:"
+msgstr "Status do Tópico"
+
+#: bbpress/form-topic.php:232
+msgid "You cannot create new topics."
+msgstr "Você não pode criar novos tópicos."
+
+#: bbpress/form-topic.php:131
+msgid "Topic Type:"
+msgstr "Tipo de Tópico:"
+
+#: bbpress/form-topic.php:115
+msgid "(No Forum)"
+msgstr "(Sem Fórum)"
+
+#: bbpress/form-topic.php:112
+msgid "Forum:"
+msgstr "Fórum:"
+
+#: bbpress/form-topic.php:99
+msgid "Topic Tags:"
+msgstr "Tags do tópico:"
+
+#: bbpress/form-topic.php:51
+msgid "This forum is marked as closed to new topics, however your posting capabilities still allow you to do so."
+msgstr "Este fórum está marcado como encerrado para novos tópicos, no entanto, suas capacidades de publicação ainda permitem isso."
+
+#: bbpress/form-topic.php:41
+msgid "Create New Topic"
+msgstr "Criar novo Tópico"
+
+#: bbpress/form-topic.php:41
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "Criar Novo Tópico em &ldquo;%s&rdquo;"
+
+#: bbpress/form-topic-tag.php:101
+msgid "Are you sure you want to delete the \"%s\" tag? This is permanent and cannot be undone."
+msgstr "Tem certeza que quer apagar a tag \"%s\"? Isso é permanente e não poderá ser desfeito."
+
+#: bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr "Excluir tag não poderá ser desfeito."
+
+#: bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr "Qualquer link para esta tag não mais funcionará."
+
+#: bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr "Isto não exclui seus tópicos. Apenas a tag é excluída."
+
+#: bbpress/form-topic-tag.php:88 bbpress/form-topic-tag.php:101
+msgid "Delete"
+msgstr "Excluir"
+
+#: bbpress/form-topic-tag.php:73
+msgid "Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr "Tem certeza de que deseja mesclar a tag \"%s\" com a tag que especificou?"
+
+#: bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr "Tag existente:"
+
+#: bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr "Mesclar tags não poderá ser desfeito."
+
+#: bbpress/form-topic-tag.php:59 bbpress/form-topic-tag.php:73
+msgid "Merge"
+msgstr "Mesclar"
+
+#: bbpress/form-topic-tag.php:45
+msgid "Update"
+msgstr "Atualizar"
+
+#: bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr "Slug:"
+
+#: bbpress/form-topic-tag.php:29
+msgid "Changing the slug affects its permalink. Any links to the old slug will stop working."
+msgstr "Mudar o slug afeta o link permanente. Qualquer link para o slug antigo não mais funcionará."
+
+#: bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr "Nome:"
+
+#: bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr "Renomear"
+
+#: bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr "Deixe este slug vazio para ter um gerado automáticamente."
+
+#: bbpress/form-topic-split.php:85
+msgid "Copy topic tags to the new topic"
+msgstr "Copiar tags de tópico para novo tópico"
+
+#: bbpress/form-topic-tag.php:18
+msgid "Manage Tag: \"%s\""
+msgstr "Gerenciar Tag: \"%s\""
+
+#: bbpress/form-topic-split.php:75
+msgid "Copy subscribers to the new topic"
+msgstr "Copiar assinantes para o novo tópico"
+
+#: bbpress/form-topic-split.php:80
+msgid "Copy favoriters to the new topic"
+msgstr "Copiar quem adicionou aos Favoritos para novo tópico"
+
+#: bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr "Método de Divisão"
+
+#: bbpress/form-topic-split.php:42
+msgid "Split: %s"
+msgstr "Dividir: %s"
+
+#: bbpress/form-topic-split.php:33
+msgid "If you use the existing topic option, replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted."
+msgstr "Se usar um tópico existente, resposta em ambos os tópicos serão mescladas cronologicamente. A ordem de mesclagem das resposta é baseada na data em que foram publicadas."
+
+#: bbpress/form-topic-split.php:24
+msgid "Split topic \"%s\""
+msgstr "Dividir tópico \"%s\""
+
+#: bbpress/form-topic-split.php:29
+msgid "When you split a topic, you are slicing it in half starting with the reply you just selected. Choose to use that reply as a new topic with a new title, or merge those replies into an existing topic."
+msgstr "Quando divide um tópico, você o está separando pelo meio a partir da resposta que selecionou. Escolha uma resposta para ser usada como um novo tópico, com um novo título, ou mescle estas respostas em um tópico existente."
+
+#: bbpress/form-topic-merge.php:106 bbpress/form-topic-split.php:110
+msgid "You do not have the permissions to edit this topic!"
+msgstr "Sem permissão para editar este tópico!"
+
+#: bbpress/form-topic-merge.php:106 bbpress/form-topic-split.php:110
+msgid "You cannot edit this topic."
+msgstr "Você não pode editar este tópico."
+
+#: bbpress/form-topic-merge.php:81
+msgid "Merge topic tags"
+msgstr "Mesclar tags de tópico"
+
+#: bbpress/form-topic-merge.php:76
+msgid "Merge topic favoriters"
+msgstr "Mesclar quem adicionou aos favoritos"
+
+#: bbpress/form-topic-merge.php:64 bbpress/form-topic-split.php:68
+msgid "Topic Extras"
+msgstr "Extras"
+
+#: bbpress/form-topic-merge.php:71
+msgid "Merge topic subscribers"
+msgstr "Mesclar assinantes de tópicos"
+
+#: bbpress/form-topic-merge.php:42
+msgid "Merge with this topic:"
+msgstr "Mesclar com o tópico:"
+
+#: bbpress/form-topic-merge.php:56
+msgid "There are no other topics in this forum to merge with."
+msgstr "Não há tópicos neste fórum para serem mesclados."
+
+#: bbpress/form-topic-merge.php:34
+msgid "All replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted. If the destination topic was created after this one, it's post date will be updated to second earlier than this one."
+msgstr "Todas as respostas em ambos os tópicos serão mescladas cronologicamente. A ordem de mesclagem se baseia na data em que foram publicados. Se o tópico de destino foi criado depois deste, sua data de publicação será atualizada para um segundo mais cedo."
+
+#: bbpress/form-topic-merge.php:38
+msgid "Destination"
+msgstr "Destino"
+
+#: bbpress/form-topic-merge.php:30
+msgid "To keep this topic as the lead, go to the other topic and use the merge tool from there instead."
+msgstr "Para manter este tópico como o primeiro, vára para outro tópico e use a ferramenta de mesclar a partir dele."
+
+#: bbpress/form-topic-merge.php:24
+msgid "Merge topic \"%s\""
+msgstr "Mesclar tópico \"%s\""
+
+#: bbpress/form-topic-merge.php:29
+msgid "Select the topic to merge this one into. The destination topic will remain the lead topic, and this one will change into a reply."
+msgstr "Selecione o tópico a ser mesclado a este. O tópico de destino será mantido como o primeiro e este ficará como sendo uma resposta."
+
+#: bbpress/form-search.php:17
+msgid "Search"
+msgstr "Pesquisar"
+
+#: bbpress/form-search.php:14
+msgid "Search for:"
+msgstr "Pesquisar por:"
+
+#: bbpress/form-reply.php:176
+msgid "You cannot reply to this topic."
+msgstr "Você não pode responder a este tópico."
+
+#: bbpress/form-reply.php:176
+msgid "You must be logged in to reply to this topic."
+msgstr "Você deve fazer login para responder a este tópico."
+
+#: bbpress/form-reply.php:160
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr "O tópico &#8216;%s&#8217; está fechado para novas respostas."
+
+#: bbpress/form-reply.php:168 bbpress/form-topic.php:224
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr "O fórum &#8216;%s&#8217; está fechado para novos tópicos e respostas."
+
+#: bbpress/form-reply.php:116 bbpress/form-topic.php:182
+msgid "Keep a log of this edit:"
+msgstr "Manter um log desta edição:"
+
+#: bbpress/form-reply.php:120 bbpress/form-topic.php:186
+msgid "Optional reason for editing:"
+msgstr "Razão para esta edição (opcional):"
+
+#: bbpress/form-reply.php:99 bbpress/form-topic.php:166
+msgid "Notify me of follow-up replies via email"
+msgstr "Notifique-me de novas respostas via email"
+
+#: bbpress/form-reply.php:95 bbpress/form-topic.php:162
+msgid "Notify the author of follow-up replies via email"
+msgstr "Notificar o autor sobre novas resposta via email"
+
+#: bbpress/form-reply.php:36
+msgid "This topic is marked as closed to new replies, however your posting capabilities still allow you to do so."
+msgstr "Este tópico está marcado como encerrado para novas respostas, no entanto suas capacidades de publicação ainda o permite fazê-lo."
+
+#: bbpress/form-reply.php:77
+msgid "Tags:"
+msgstr "Tags: "
+
+#: bbpress/form-reply-move.php:85
+msgid "You cannot edit this reply."
+msgstr "Você não pode editar este resposta."
+
+#: bbpress/form-reply.php:29
+msgid "Reply To: %s"
+msgstr "Responder a: %s"
+
+#: bbpress/form-reply-move.php:68 bbpress/form-topic-merge.php:89
+#: bbpress/form-topic-split.php:93
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr "<strong>ATENÇÃO:</strong> Este processão não poderá ser desfeito."
+
+#: bbpress/form-reply-move.php:85
+msgid "You do not have the permissions to edit this reply!"
+msgstr "Você não possui permissão para editar esta resposta!"
+
+#: bbpress/form-reply-move.php:41 bbpress/form-topic-split.php:41
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr "Novo tópico em <strong>%s</strong> entitulado:"
+
+#: bbpress/form-reply-move.php:42
+msgid "Moved: %s"
+msgstr "Movido: %s"
+
+#: bbpress/form-reply-move.php:49 bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr "Usar um tópico existente neste fórum:"
+
+#: bbpress/form-reply-move.php:29
+msgid "You can either make this reply a new topic with a new title, or merge it into an existing topic."
+msgstr "Você pode fazer dessa resposta um novo tópico com um novo título, ou mesclá-la em um tópico existente."
+
+#: bbpress/form-reply-move.php:33
+msgid "If you choose an existing topic, replies will be ordered by the time and date they were created."
+msgstr "Se você escolher um tema já existente, as respostas serão ordenadas pela data e hora em que foram criadas."
+
+#: bbpress/form-reply-move.php:37
+msgid "Move Method"
+msgstr "Método de mover"
+
+#: bbpress/form-protected.php:14
+msgid "Protected"
+msgstr "Protegido"
+
+#: bbpress/form-reply-move.php:24
+msgid "Move reply \"%s\""
+msgstr "Mover resposta \"%s\""
+
+#: bbpress/form-forum.php:159
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr "O fórum &#8216;%s&#8217; está fechado para novo conteúdo."
+
+#: bbpress/form-forum.php:167
+msgid "You cannot create new forums."
+msgstr "Você não pode criar novos fóruns."
+
+#: bbpress/form-forum.php:167
+msgid "You must be logged in to create new forums."
+msgstr "Você precisa fazer login antes de criar novos fóruns."
+
+#: bbpress/form-forum.php:136 bbpress/form-reply-move.php:72
+#: bbpress/form-reply.php:137 bbpress/form-topic-merge.php:93
+#: bbpress/form-topic-split.php:97 bbpress/form-topic.php:201
+msgid "Submit"
+msgstr "Enviar"
+
+#: bbpress/form-forum.php:116
+msgid "Parent Forum:"
+msgstr "Fórum Pai:"
+
+#: bbpress/form-forum.php:121
+msgid "(No Parent)"
+msgstr "(sem mãe)"
+
+#: bbpress/form-forum.php:107
+msgid "Visibility:"
+msgstr "Visibilidade:"
+
+#: bbpress/form-forum.php:89
+msgid "Forum Type:"
+msgstr "Tipo de fórum:"
+
+#: bbpress/form-forum.php:98
+msgid "Status:"
+msgstr "Status:"
+
+#: bbpress/form-forum.php:65
+msgid "Forum Name (Maximum Length: %d):"
+msgstr "Nome do Fórum (Comprimento máximo: %d):"
+
+#: bbpress/form-forum.php:80 bbpress/form-reply.php:66
+#: bbpress/form-topic.php:88
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr "Você pode usar estas <abbr title=\"HyperText Markup Language\"> tags HTML</abbr> e atributos:"
+
+#: bbpress/form-forum.php:45
+msgid "This forum is closed to new content, however your account still allows you to do so."
+msgstr "Este fórum está fechado para conteúdo novo, mas sua conta ainda permite que faça isso."
+
+#: bbpress/form-forum.php:53 bbpress/form-reply.php:58
+#: bbpress/form-topic.php:80
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "A sua conta tem a capacidade de publicar conteúdo HTML sem restrições."
+
+#: bbpress/form-forum.php:35
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr "Criar novo fórum em &ldquo;%s&rdquo;"
+
+#: bbpress/form-forum.php:35
+msgid "Create New Forum"
+msgstr "Criar novo Fórum"
+
+#: bbpress/form-forum.php:33 bbpress/form-topic.php:39
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "Editando &ldquo;%s&rdquo;"
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr "Criador"
+
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94
+msgid "Topic"
+msgstr "Tópico"
